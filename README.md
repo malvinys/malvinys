@@ -7,7 +7,7 @@ I'm currently working as Fullstack Developer at [SQM Property](http://sqmpropert
   <a href="https://www.linkedin.com/in/malvin-yosef-saputra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p>
 
-# Technologies and Tools 🛠
+# Technologies 🛠
 
 <p>
   <b>Architecture</b>
