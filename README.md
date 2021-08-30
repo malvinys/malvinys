@@ -1,6 +1,6 @@
 # Hi there, I'm Malvin 👋
 
-I'm currently working as Fullstack Developer at [SQM Property](http://sqmproperty.co.id/)
+I'm currently working as Front End Engineer at [Bibit.id](https://bibit.id/)
 
 <p align="left">
   <a href="mailto:malvinyosef@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
